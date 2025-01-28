@@ -1,4 +1,4 @@
-# ESP12E FM Radio Receiver 📻
+# ESP12E FM Radio Receiver 📻 
 
 ![Platform](https://img.shields.io/badge/platform-ESP12E-blue.svg)
 ![Language](https://img.shields.io/badge/language-C++-brightgreen.svg)
